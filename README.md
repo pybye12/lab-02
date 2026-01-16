@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Abdul Haq Bin Abdul Rehman
+- **CCID:** abdulha7
 
 ## References and Resources
 
